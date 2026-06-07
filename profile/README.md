@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src="https://avatars.githubusercontent.com/u/284021915?v=4" alt="QuadTechWorks logo" width="120" height="120" />
+
 # QuadTechWorks
 
 **We build sharp, dependency-light developer tools.**
